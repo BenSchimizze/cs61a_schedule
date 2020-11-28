@@ -7,5 +7,10 @@ Textbook: SICP - Structure and Interpretation of Computer Programs
 - Access Full Text Online: https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
 - Amazon: https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871
 
+**I recommend using Racket. The Simply Scheme package can be used to match functions used in class**
 
-**I recommend just using Racket because MIT Scheme was buggy. Some functions used in the class don't exist, but you can write most of them in Racket easily.**
+You can simply run the following code directly to enable Simply Scheme functions:
+https://gist.github.com/alexgian/5b351f367169b40a4ad809f0bb718e1f
+
+You can follow the instructions here to install the .scm file above as a language within Racket:
+https://groups.google.com/g/racket-users/c/jHPtw3Gzqk4?pli=1
